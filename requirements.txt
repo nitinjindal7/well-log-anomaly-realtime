@@ -5,3 +5,4 @@ numpy
 scikit-learn
 joblib
 plotly
+pillow==10.3.0
