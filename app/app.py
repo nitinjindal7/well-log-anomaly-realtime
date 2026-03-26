@@ -1,3 +1,5 @@
+import sys
+sys.path.append(".")
 import streamlit as st
 import pandas as pd
 import joblib
